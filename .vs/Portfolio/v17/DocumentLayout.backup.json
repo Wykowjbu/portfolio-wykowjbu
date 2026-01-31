@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Users\\PenWy\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -159,10 +163,6 @@
       "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}|",
       "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
@@ -178,24 +178,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-01-31T06:54:04.791Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -212,20 +199,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 1,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-01-31T06:53:34.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": ".dockerignore",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\.dockerignore",
               "RelativeDocumentMoniker": ".dockerignore",
@@ -238,20 +225,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-31T03:54:53.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T03:51:26.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-31T06:54:04.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Skills.vi-VN.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.vi-VN.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Skills.vi-VN.resx",
@@ -262,20 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAkwEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T03:51:26.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -287,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -299,19 +299,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
               "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Contact.cshtml",
               "RelativeToolTip": "Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAG4AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAIBJwG4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T05:11:58.421Z"
+              "WhenOpened": "2026-01-31T05:11:58.421Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -323,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Projects.cshtml",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Projects.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Projects.cshtml",
@@ -335,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Skills.cshtml",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Skills.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Skills.cshtml",
@@ -347,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Skills.ja-JP.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.ja-JP.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Skills.ja-JP.resx",
@@ -358,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Skills.en-US.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.en-US.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Skills.en-US.resx",
@@ -369,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Experience.en-US.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Experience.en-US.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Experience.en-US.resx",
@@ -380,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Projects.en-US.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.en-US.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Projects.en-US.resx",
@@ -391,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Projects.ja-JP.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.ja-JP.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Projects.ja-JP.resx",
@@ -402,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Projects.vi-VN.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.vi-VN.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Projects.vi-VN.resx",
@@ -413,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Contact.en-US.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Contact.en-US.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Contact.en-US.resx",
@@ -424,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Experience.cshtml",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Experience.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Experience.cshtml",
@@ -436,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CultureController.cs",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Controllers\\CultureController.cs",
               "RelativeDocumentMoniker": "Controllers\\CultureController.cs",
@@ -448,19 +449,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Index.en-US.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Index.en-US.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Index.en-US.resx",
               "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Index.en-US.resx",
               "RelativeToolTip": "Resources\\Views\\Home\\Index.en-US.resx",
-              "ViewState": "AgIAAFsAAAAAAAAAAABBwFwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAABBwF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:51:46.934Z"
+              "WhenOpened": "2026-01-31T03:51:46.934Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "_Layout.en-US.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Shared\\_Layout.en-US.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Shared\\_Layout.en-US.resx",
@@ -472,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Contact.ja-JP.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Contact.ja-JP.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Contact.ja-JP.resx",
@@ -484,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Contact.vi-VN.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Contact.vi-VN.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Contact.vi-VN.resx",
@@ -496,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Contact.en-US.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Contact.en-US.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Contact.en-US.resx",
@@ -508,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Skills.ja-JP.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.ja-JP.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Skills.ja-JP.resx",
@@ -520,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Skills.vi-VN.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.vi-VN.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Skills.vi-VN.resx",
@@ -532,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Skills.en-US.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.en-US.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Skills.en-US.resx",
@@ -544,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Experience.ja-JP.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Experience.ja-JP.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Experience.ja-JP.resx",
@@ -556,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Experience.vi-VN.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Experience.vi-VN.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Experience.vi-VN.resx",
@@ -568,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Experience.en-US.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Experience.en-US.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Experience.en-US.resx",
@@ -580,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Projects.ja-JP.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.ja-JP.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Projects.ja-JP.resx",
@@ -592,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Projects.vi-VN.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.vi-VN.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Projects.vi-VN.resx",
@@ -604,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Projects.en-US.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.en-US.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Projects.en-US.resx",
@@ -616,31 +618,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Index.ja-JP.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Index.ja-JP.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Index.ja-JP.resx",
               "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Index.ja-JP.resx",
               "RelativeToolTip": "Resources\\Views\\Home\\Index.ja-JP.resx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAABBwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:54:33.71Z"
+              "WhenOpened": "2026-01-31T03:54:33.71Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Index.vi-VN.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Index.vi-VN.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Index.vi-VN.resx",
               "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Index.vi-VN.resx",
               "RelativeToolTip": "Resources\\Views\\Home\\Index.vi-VN.resx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAABBwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:54:21.027Z"
+              "WhenOpened": "2026-01-31T03:54:21.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -652,19 +656,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "site.css",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "D:\\Users\\PenWy\\Portfolio\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAMcAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGUCAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-01-31T03:53:15.512Z"
+              "WhenOpened": "2026-01-31T03:53:15.512Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "_Layout.ja-JP.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Shared\\_Layout.ja-JP.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Shared\\_Layout.ja-JP.resx",
@@ -676,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "_Layout.vi-VN.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Shared\\_Layout.vi-VN.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Shared\\_Layout.vi-VN.resx",

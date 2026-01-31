@@ -86,4 +86,7 @@
   <data name="CTA.GetInTouch" xml:space="preserve">
     <value>お問い合わせ</value>
   </data>
+  <data name="CTA.Interested" xml:space="preserve">
+    <value>一緒に仕事をすることに興味がありますか？</value>
+  </data>
 </root>

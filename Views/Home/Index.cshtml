@@ -8,16 +8,18 @@
 <!-- Hero Section -->
 <div class="hero-section text-center">
     <div class="container">
-        <h1 class="display-3 fw-bold mb-3">@Localizer["Hero.Greeting"]</h1>
-        <p class="lead mb-4">@Localizer["Hero.Title"]</p>
-        <p class="mb-4">@Localizer["Hero.Description"]</p>
-        <div class="d-flex justify-content-center gap-3 flex-wrap">
-            <a asp-controller="Home" asp-action="Projects" class="btn btn-light btn-lg">
-                <i class="fas fa-folder-open me-2"></i>@Localizer["CTA.ViewProjects"]
-            </a>
-            <a asp-controller="Home" asp-action="Contact" class="btn btn-outline-light btn-lg">
-                <i class="fas fa-envelope me-2"></i>@Localizer["CTA.GetInTouch"]
-            </a>
+        <div class="hero-content">
+            <h1 class="display-3 fw-bold mb-3 animate-fade-in">@Localizer["Hero.Greeting"]</h1>
+            <p class="lead mb-4 animate-fade-in-delay">@Localizer["Hero.Title"]</p>
+            <p class="mb-4 animate-fade-in-delay-2">@Localizer["Hero.Description"]</p>
+            <div class="d-flex justify-content-center gap-3 flex-wrap animate-fade-in-delay-3">
+                <a asp-controller="Home" asp-action="Projects" class="btn btn-light btn-lg px-4">
+                    <i class="fas fa-folder-open me-2"></i>@Localizer["CTA.ViewProjects"]
+                </a>
+                <a asp-controller="Home" asp-action="Contact" class="btn btn-outline-light btn-lg px-4">
+                    <i class="fas fa-envelope me-2"></i>@Localizer["CTA.GetInTouch"]
+                </a>
+            </div>
         </div>
     </div>
 </div>
@@ -28,31 +30,31 @@
         <h2 class="section-title">@Localizer["About.Title"]</h2>
         <div class="row">
             <div class="col-lg-8">
-                <p class="lead">@Localizer["About.Intro"]</p>
-                <div class="card mt-4">
+                <p class="lead mb-4">@Localizer["About.Intro"]</p>
+                <div class="card mt-4 border-0 shadow-sm">
                     <div class="card-body">
                         <h5 class="card-title">
                             <i class="fas fa-graduation-cap me-2 text-primary"></i>
                             @Localizer["About.Education"]
                         </h5>
-                        <p class="card-text">@Localizer["About.EducationDetails"]</p>
+                        <p class="card-text text-muted">@Localizer["About.EducationDetails"]</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 mt-4 mt-lg-0">
-                <div class="card bg-light">
+                <div class="card bg-light border-0 shadow-sm">
                     <div class="card-body text-center">
                         <div class="mb-3">
                             <i class="fas fa-user-circle fa-5x text-primary"></i>
                         </div>
-                        <h5 class="fw-bold">Phan Huy</h5>
+                        <h5 class="fw-bold mb-3">Phan Huy</h5>
                         <p class="text-muted mb-2">
                             <i class="fas fa-map-marker-alt me-2"></i>Vietnam
                         </p>
                         <p class="text-muted mb-2">
                             <i class="fas fa-university me-2"></i>FPT University
                         </p>
-                        <p class="text-muted">
+                        <p class="text-muted mb-0">
                             <i class="fas fa-calendar me-2"></i>2022 - 2026
                         </p>
                     </div>
@@ -65,41 +67,51 @@
 <!-- Highlights Section -->
 <section class="py-5 bg-light">
     <div class="container">
-        <h2 class="section-title text-center">@Localizer["Highlights.Title"]</h2>
-        <div class="row g-4 mt-3">
+        <h2 class="section-title text-center mb-5">@Localizer["Highlights.Title"]</h2>
+        <div class="row g-4">
             <div class="col-md-4">
-                <div class="card text-center h-100">
-                    <div class="card-body">
+                <div class="card text-center h-100 border-0 shadow-sm">
+                    <div class="card-body p-4">
                         <div class="mb-3">
                             <i class="fas fa-code fa-3x text-primary"></i>
                         </div>
-                        <h5 class="card-title">@Localizer["Highlights.WebDev"]</h5>
-                        <p class="card-text">@Localizer["Highlights.WebDevDesc"]</p>
+                        <h5 class="card-title fw-bold">@Localizer["Highlights.WebDev"]</h5>
+                        <p class="card-text text-muted">@Localizer["Highlights.WebDevDesc"]</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="card text-center h-100">
-                    <div class="card-body">
+                <div class="card text-center h-100 border-0 shadow-sm">
+                    <div class="card-body p-4">
                         <div class="mb-3">
                             <i class="fas fa-bug fa-3x text-primary"></i>
                         </div>
-                        <h5 class="card-title">@Localizer["Highlights.Testing"]</h5>
-                        <p class="card-text">@Localizer["Highlights.TestingDesc"]</p>
+                        <h5 class="card-title fw-bold">@Localizer["Highlights.Testing"]</h5>
+                        <p class="card-text text-muted">@Localizer["Highlights.TestingDesc"]</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="card text-center h-100">
-                    <div class="card-body">
+                <div class="card text-center h-100 border-0 shadow-sm">
+                    <div class="card-body p-4">
                         <div class="mb-3">
                             <i class="fas fa-database fa-3x text-primary"></i>
                         </div>
-                        <h5 class="card-title">@Localizer["Highlights.Database"]</h5>
-                        <p class="card-text">@Localizer["Highlights.DatabaseDesc"]</p>
+                        <h5 class="card-title fw-bold">@Localizer["Highlights.Database"]</h5>
+                        <p class="card-text text-muted">@Localizer["Highlights.DatabaseDesc"]</p>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+</section>
+
+<!-- Call to Action Section -->
+<section class="py-5 text-center">
+    <div class="container">
+        <h3 class="mb-4">@Localizer["CTA.Interested"]</h3>
+        <a asp-controller="Home" asp-action="Contact" class="btn btn-primary btn-lg px-5">
+            <i class="fas fa-paper-plane me-2"></i>@Localizer["CTA.GetInTouch"]
+        </a>
     </div>
 </section>

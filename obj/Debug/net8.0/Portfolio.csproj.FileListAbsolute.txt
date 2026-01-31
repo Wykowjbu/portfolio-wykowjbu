@@ -38,7 +38,6 @@ D:\Users\PenWy\Portfolio\obj\Debug\net8.0\staticwebassets.build.json
 D:\Users\PenWy\Portfolio\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Users\PenWy\Portfolio\obj\Debug\net8.0\staticwebassets.development.json
 D:\Users\PenWy\Portfolio\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Users\PenWy\Portfolio\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Users\PenWy\Portfolio\obj\Debug\net8.0\Portfolio.dll
 D:\Users\PenWy\Portfolio\obj\Debug\net8.0\refint\Portfolio.dll
 D:\Users\PenWy\Portfolio\obj\Debug\net8.0\Portfolio.pdb
@@ -57,3 +56,4 @@ D:\Users\PenWy\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Views.Home.Experie
 D:\Users\PenWy\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Views.Home.Skills.en-US.resources
 D:\Users\PenWy\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Views.Home.Skills.vi-VN.resources
 D:\Users\PenWy\Portfolio\obj\Debug\net8.0\Portfolio.sourcelink.json
+D:\Users\PenWy\Portfolio\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

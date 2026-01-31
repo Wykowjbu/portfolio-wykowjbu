@@ -89,4 +89,7 @@
   <data name="CTA.GetInTouch" xml:space="preserve">
     <value>Get In Touch</value>
   </data>
+  <data name="CTA.Interested" xml:space="preserve">
+    <value>Interested in working together?</value>
+  </data>
 </root>

@@ -86,4 +86,7 @@
   <data name="CTA.GetInTouch" xml:space="preserve">
     <value>Liên hệ với tôi</value>
   </data>
+  <data name="CTA.Interested" xml:space="preserve">
+    <value>Quan tâm đến việc hợp tác cùng nhau?</value>
+  </data>
 </root>
