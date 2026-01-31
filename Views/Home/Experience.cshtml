@@ -1,0 +1,99 @@
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+
+@{
+    ViewData["Title"] = Localizer["Title"];
+}
+
+<div class="container py-5">
+    <h1 class="section-title text-center">@Localizer["Title"]</h1>
+    <p class="text-center text-muted mb-5">@Localizer["Subtitle"]</p>
+
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <!-- Experience Timeline -->
+            <div class="timeline-item">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex align-items-start mb-3">
+                            <div class="bg-primary text-white rounded-circle p-3 me-3">
+                                <i class="fas fa-briefcase fa-2x"></i>
+                            </div>
+                            <div class="flex-grow-1">
+                                <h4 class="card-title mb-2">@Localizer["Exp1.Title"]</h4>
+                                <p class="text-muted mb-1">
+                                    <i class="fas fa-calendar-alt me-2"></i>@Localizer["Exp1.Period"]
+                                </p>
+                                <p class="text-muted">
+                                    <i class="fas fa-users me-2"></i>@Localizer["Exp1.TeamSize"]
+                                </p>
+                            </div>
+                        </div>
+
+                        <p class="card-text">@Localizer["Exp1.Description"]</p>
+
+                        <div class="mt-4">
+                            <h6 class="text-primary">
+                                <i class="fas fa-tasks me-2"></i>@Localizer["Responsibilities"]
+                            </h6>
+                            <ul>
+                                @foreach (var responsibility in Localizer["Exp1.Responsibilities"].Value.Split(" • "))
+                                {
+                                    <li>@responsibility</li>
+                                }
+                            </ul>
+                        </div>
+
+                        <div class="mt-4">
+                            <h6 class="text-primary">
+                                <i class="fas fa-trophy me-2"></i>@Localizer["Achievements"]
+                            </h6>
+                            <ul>
+                                <li>@Localizer["Achievement1"]</li>
+                                <li>@Localizer["Achievement2"]</li>
+                                <li>@Localizer["Achievement3"]</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Educational Background -->
+            <div class="timeline-item">
+                <div class="card bg-light">
+                    <div class="card-body">
+                        <div class="d-flex align-items-start mb-3">
+                            <div class="bg-success text-white rounded-circle p-3 me-3">
+                                <i class="fas fa-graduation-cap fa-2x"></i>
+                            </div>
+                            <div>
+                                <h4 class="card-title mb-2">FPT University</h4>
+                                <p class="text-muted mb-1">
+                                    <i class="fas fa-calendar-alt me-2"></i>2022 - 2026 (Expected)
+                                </p>
+                                <p class="text-muted">
+                                    <i class="fas fa-book me-2"></i>Software Engineering (.NET-oriented)
+                                </p>
+                            </div>
+                        </div>
+                        <p class="mb-0">
+                            Pursuing a Bachelor's degree in Software Engineering with a focus on .NET technologies, 
+                            object-oriented programming, and modern software development practices.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="text-center mt-5">
+        <div class="d-flex justify-content-center gap-3 flex-wrap">
+            <a asp-controller="Home" asp-action="Skills" class="btn btn-outline-primary btn-lg">
+                <i class="fas fa-code me-2"></i>@Localizer["Nav.Skills"]
+            </a>
+            <a asp-controller="Home" asp-action="Projects" class="btn btn-primary btn-lg">
+                <i class="fas fa-folder-open me-2"></i>@Localizer["Nav.Projects"]
+            </a>
+        </div>
+    </div>
+</div>

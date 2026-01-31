@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  
+  <data name="Title" xml:space="preserve">
+    <value>Kỹ năng kỹ thuật</value>
+  </data>
+  <data name="Subtitle" xml:space="preserve">
+    <value>Công nghệ và công cụ tôi sử dụng</value>
+  </data>
+  
+  <data name="Category.Programming" xml:space="preserve">
+    <value>Ngôn ngữ lập trình</value>
+  </data>
+  <data name="Category.WebDev" xml:space="preserve">
+    <value>Phát triển Web</value>
+  </data>
+  <data name="Category.Database" xml:space="preserve">
+    <value>Quản lý cơ sở dữ liệu</value>
+  </data>
+  <data name="Category.Tools" xml:space="preserve">
+    <value>Công cụ & Quản lý phiên bản</value>
+  </data>
+  <data name="Category.Concepts" xml:space="preserve">
+    <value>Khái niệm cốt lõi</value>
+  </data>
+  <data name="Category.Testing" xml:space="preserve">
+    <value>Kiểm thử phần mềm</value>
+  </data>
+  
+  <data name="Languages.Title" xml:space="preserve">
+    <value>Trình độ ngoại ngữ</value>
+  </data>
+  <data name="Languages.Vietnamese" xml:space="preserve">
+    <value>Tiếng Việt - Bản ngữ</value>
+  </data>
+  <data name="Languages.English" xml:space="preserve">
+    <value>Tiếng Anh - Giao tiếp công việc</value>
+  </data>
+  <data name="Languages.Japanese" xml:space="preserve">
+    <value>Tiếng Nhật - Cơ bản (N5-N4)</value>
+  </data>
+</root>

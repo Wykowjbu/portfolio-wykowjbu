@@ -1,0 +1,662 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\PenWy\\Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\views\\home\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:views\\home\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\skills.vi-vn.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\skills.vi-vn.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\skills.ja-jp.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\skills.ja-jp.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\skills.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\skills.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\experience.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\experience.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\contact.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\contact.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\projects.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\projects.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\projects.ja-jp.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\projects.ja-jp.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\projects.vi-vn.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\projects.vi-vn.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\views\\home\\experience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:views\\home\\experience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\controllers\\culturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:controllers\\culturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\index.en-us.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\index.en-us.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\shared\\_layout.en-us.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\shared\\_layout.en-us.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\shared\\_layout.vi-vn.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\shared\\_layout.vi-vn.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\shared\\_layout.ja-jp.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\shared\\_layout.ja-jp.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\index.vi-vn.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\index.vi-vn.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\index.ja-jp.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\index.ja-jp.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\projects.en-us.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\projects.en-us.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\projects.vi-vn.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\projects.vi-vn.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\projects.ja-jp.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\projects.ja-jp.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\experience.en-us.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\experience.en-us.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\experience.vi-vn.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\experience.vi-vn.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\experience.ja-jp.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\experience.ja-jp.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\skills.en-us.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\skills.en-us.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\skills.vi-vn.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\skills.vi-vn.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\skills.ja-jp.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\skills.ja-jp.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\contact.en-us.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\contact.en-us.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\contact.vi-vn.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\contact.vi-vn.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\contact.ja-jp.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\contact.ja-jp.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T06:34:54.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T03:54:53.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAG4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T05:11:58.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T06:17:10.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAG0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T03:52:35.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Skills.vi-VN.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Skills.vi-VN.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Skills.vi-VN.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T06:31:47.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Projects.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Projects.cshtml",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Projects.cshtml",
+              "RelativeToolTip": "Views\\Home\\Projects.cshtml",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAgwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T03:55:59.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Skills.cshtml",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Skills.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Skills.cshtml",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Skills.cshtml",
+              "RelativeToolTip": "Views\\Home\\Skills.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T03:57:25.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Skills.ja-JP.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.ja-JP.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Skills.ja-JP.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.ja-JP.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Skills.ja-JP.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T06:31:46.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Skills.en-US.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Skills.en-US.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Skills.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T06:21:03.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Experience.en-US.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Experience.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Experience.en-US.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Experience.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Experience.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T06:21:31.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Projects.en-US.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Projects.en-US.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Projects.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T06:20:08.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Projects.ja-JP.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.ja-JP.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Projects.ja-JP.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.ja-JP.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Projects.ja-JP.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T06:20:04.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Projects.vi-VN.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Projects.vi-VN.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Projects.vi-VN.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T06:17:52.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contact.en-US.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Contact.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Contact.en-US.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Contact.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Contact.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T06:09:08.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAIBJwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T03:51:26.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Experience.cshtml",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Experience.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Experience.cshtml",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Experience.cshtml",
+              "RelativeToolTip": "Views\\Home\\Experience.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T03:56:41.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CultureController.cs",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Controllers\\CultureController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CultureController.cs",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Controllers\\CultureController.cs",
+              "RelativeToolTip": "Controllers\\CultureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T03:51:41.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.en-US.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Index.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Index.en-US.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Index.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Index.en-US.resx",
+              "ViewState": "AgIAAFsAAAAAAAAAAABBwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:51:46.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.en-US.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Shared\\_Layout.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Shared\\_Layout.en-US.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Shared\\_Layout.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Shared\\_Layout.en-US.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:51:57.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Contact.ja-JP.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Contact.ja-JP.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Contact.ja-JP.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Contact.ja-JP.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Contact.ja-JP.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T05:11:43.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Contact.vi-VN.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Contact.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Contact.vi-VN.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Contact.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Contact.vi-VN.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:57:44.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Contact.en-US.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Contact.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Contact.en-US.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Contact.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Contact.en-US.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:57:35.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Skills.ja-JP.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.ja-JP.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Skills.ja-JP.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.ja-JP.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Skills.ja-JP.resx",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwJsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:57:04.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Skills.vi-VN.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Skills.vi-VN.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Skills.vi-VN.resx",
+              "ViewState": "AgIAACQAAAAAAAAAAABRwJsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:56:57.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Skills.en-US.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Skills.en-US.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Skills.en-US.resx",
+              "ViewState": "AgIAACUAAAAAAAAAAIBJwJsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:56:49.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Experience.ja-JP.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Experience.ja-JP.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Experience.ja-JP.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Experience.ja-JP.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Experience.ja-JP.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:56:29.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Experience.vi-VN.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Experience.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Experience.vi-VN.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Experience.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Experience.vi-VN.resx",
+              "ViewState": "AgIAACQAAAAAAAAAAMBtwJsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:56:20.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Experience.en-US.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Experience.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Experience.en-US.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Experience.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Experience.en-US.resx",
+              "ViewState": "AgIAAC4AAAAAAAAAAABBwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:56:09.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Projects.ja-JP.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.ja-JP.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Projects.ja-JP.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.ja-JP.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Projects.ja-JP.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:55:48.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Projects.vi-VN.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Projects.vi-VN.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Projects.vi-VN.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:55:36.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Projects.en-US.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Projects.en-US.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Projects.en-US.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:55:25.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.ja-JP.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Index.ja-JP.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Index.ja-JP.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Index.ja-JP.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Index.ja-JP.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:54:33.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.vi-VN.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Index.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Index.vi-VN.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Index.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Index.vi-VN.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:54:21.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T03:53:27.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAMcAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-31T03:53:15.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.ja-JP.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Shared\\_Layout.ja-JP.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Shared\\_Layout.ja-JP.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Shared\\_Layout.ja-JP.resx",
+              "RelativeToolTip": "Resources\\Views\\Shared\\_Layout.ja-JP.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:52:18.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.vi-VN.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Shared\\_Layout.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Shared\\_Layout.vi-VN.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Shared\\_Layout.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Shared\\_Layout.vi-VN.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T03:52:07.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

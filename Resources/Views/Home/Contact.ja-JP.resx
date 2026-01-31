@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  
+  <data name="Title" xml:space="preserve">
+    <value>お問い合わせ</value>
+  </data>
+  <data name="Subtitle" xml:space="preserve">
+    <value>現在、.NETデベロッパーインターンのポジションを探しています。お気軽にご連絡ください！</value>
+  </data>
+  
+  <data name="Info.Title" xml:space="preserve">
+    <value>連絡先情報</value>
+  </data>
+  <data name="Info.Email" xml:space="preserve">
+    <value>メール</value>
+  </data>
+  <data name="Info.Phone" xml:space="preserve">
+    <value>電話</value>
+  </data>
+  <data name="Info.Location" xml:space="preserve">
+    <value>所在地</value>
+  </data>
+  <data name="Info.LocationValue" xml:space="preserve">
+    <value>ベトナム</value>
+  </data>
+  
+  <data name="Social.Title" xml:space="preserve">
+    <value>つながる</value>
+  </data>
+  <data name="Social.GitHub" xml:space="preserve">
+    <value>GitHubでプロジェクトを見る</value>
+  </data>
+  <data name="Social.LinkedIn" xml:space="preserve">
+    <value>LinkedInでつながる</value>
+  </data>
+  
+  <data name="Availability" xml:space="preserve">
+    <value>勤務可能時期</value>
+  </data>
+  <data name="AvailabilityText" xml:space="preserve">
+    <value>2026年初めから.NETデベロッパーインターンのポジションで勤務可能です。2026年末の卒業後はフルタイムの機会も歓迎します。</value>
+  </data>
+  
+  <data name="Interests" xml:space="preserve">
+    <value>興味のある分野</value>
+  </data>
+  <data name="InterestsText" xml:space="preserve">
+    <value>ASP.NET Core開発 • Web API開発 • フルスタック.NET開発 • ソフトウェアテスト • データベース管理 • アジャイル開発</value>
+  </data>
+</root>

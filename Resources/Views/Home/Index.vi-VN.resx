@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  
+  <data name="Hero.Greeting" xml:space="preserve">
+    <value>Xin chào, tôi là Phan Huy</value>
+  </data>
+  <data name="Hero.Title" xml:space="preserve">
+    <value>Lập trình viên .NET Intern | Sinh viên Công nghệ phần mềm</value>
+  </data>
+  <data name="Hero.Description" xml:space="preserve">
+    <value>Đam mê xây dựng ứng dụng web mạnh mẽ với ASP.NET Core. Hiện đang theo học ngành Công nghệ phần mềm tại Đại học FPT với chuyên môn về công nghệ .NET.</value>
+  </data>
+  <data name="About.Title" xml:space="preserve">
+    <value>Về tôi</value>
+  </data>
+  <data name="About.Intro" xml:space="preserve">
+    <value>Tôi là sinh viên ngành Công nghệ phần mềm tại Đại học FPT, chuyên về phát triển .NET. Với kinh nghiệm thực tế trong kiểm thử dự án di chuyển quy mô lớn và phát triển ứng dụng full-stack, tôi mong muốn đóng góp vào các giải pháp phần mềm sáng tạo.</value>
+  </data>
+  <data name="About.Education" xml:space="preserve">
+    <value>Học vấn</value>
+  </data>
+  <data name="About.EducationDetails" xml:space="preserve">
+    <value>Đại học FPT (2022 - Hiện tại) - Ngành Công nghệ phần mềm (định hướng .NET) - Dự kiến tốt nghiệp: Cuối năm 2026</value>
+  </data>
+  <data name="Highlights.Title" xml:space="preserve">
+    <value>Điểm mạnh</value>
+  </data>
+  <data name="Highlights.WebDev" xml:space="preserve">
+    <value>Phát triển Web</value>
+  </data>
+  <data name="Highlights.WebDevDesc" xml:space="preserve">
+    <value>Xây dựng ứng dụng web sử dụng ASP.NET Core MVC và Web API với kiến trúc sạch</value>
+  </data>
+  <data name="Highlights.Testing" xml:space="preserve">
+    <value>Kiểm thử phần mềm</value>
+  </data>
+  <data name="Highlights.TestingDesc" xml:space="preserve">
+    <value>Có kinh nghiệm về kiểm thử thủ công, kiểm thử hồi quy và đảm bảo chất lượng trong các dự án quy mô lớn</value>
+  </data>
+  <data name="Highlights.Database" xml:space="preserve">
+    <value>Quản lý cơ sở dữ liệu</value>
+  </data>
+  <data name="Highlights.DatabaseDesc" xml:space="preserve">
+    <value>Làm việc với SQL Server và PostgreSQL cho việc mô hình hóa dữ liệu và tối ưu truy vấn</value>
+  </data>
+  <data name="CTA.ViewProjects" xml:space="preserve">
+    <value>Xem dự án của tôi</value>
+  </data>
+  <data name="CTA.GetInTouch" xml:space="preserve">
+    <value>Liên hệ với tôi</value>
+  </data>
+</root>

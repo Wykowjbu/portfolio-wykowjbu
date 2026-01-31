@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  
+  <data name="Title" xml:space="preserve">
+    <value>Technical Skills</value>
+  </data>
+  <data name="Subtitle" xml:space="preserve">
+    <value>Technologies and tools I work with</value>
+  </data>
+  
+  <data name="Category.Programming" xml:space="preserve">
+    <value>Programming Languages</value>
+  </data>
+  <data name="Category.WebDev" xml:space="preserve">
+    <value>Web Development</value>
+  </data>
+  <data name="Category.Database" xml:space="preserve">
+    <value>Database Management</value>
+  </data>
+  <data name="Category.Tools" xml:space="preserve">
+    <value>Tools &amp; Version Control</value>
+  </data>
+  <data name="Category.Concepts" xml:space="preserve">
+    <value>Core Concepts</value>
+  </data>
+  <data name="Category.Testing" xml:space="preserve">
+    <value>Software Testing</value>
+  </data>
+  
+  <data name="Languages.Title" xml:space="preserve">
+    <value>Language Proficiency</value>
+  </data>
+  <data name="Languages.Vietnamese" xml:space="preserve">
+    <value>Vietnamese - Native</value>
+  </data>
+  <data name="Languages.English" xml:space="preserve">
+    <value>English - Professional Communication</value>
+  </data>
+  <data name="Languages.Japanese" xml:space="preserve">
+    <value>Japanese - Basic (N5-N4 Level)</value>
+  </data>
+</root>

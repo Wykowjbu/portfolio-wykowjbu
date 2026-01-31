@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  
+  <data name="Title" xml:space="preserve">
+    <value>職務経験</value>
+  </data>
+  <data name="Subtitle" xml:space="preserve">
+    <value>ソフトウェア開発とテストの経験</value>
+  </data>
+  
+  <!-- Experience 1 -->
+  <data name="Exp1.Title" xml:space="preserve">
+    <value>ソフトウェアテスター - 移行プロジェクト（日本のクライアント）</value>
+  </data>
+  <data name="Exp1.Period" xml:space="preserve">
+    <value>2025年9月 - 2025年12月</value>
+  </data>
+  <data name="Exp1.TeamSize" xml:space="preserve">
+    <value>チーム規模：約200名</value>
+  </data>
+  <data name="Exp1.Description" xml:space="preserve">
+    <value>日本のクライアント向けの大規模レガシーシステム移行プロジェクトに従事しました。国際チームと協力して、移行プロセス全体で品質と信頼性を確保しました。</value>
+  </data>
+  <data name="Exp1.Responsibilities" xml:space="preserve">
+    <value>手動テストとリグレッションテスト • 包括的なテストケースの作成 • バグ報告と検証 • 開発者との協力による問題解決 • 毎日のスタンドアップミーティングへの参加 • レガシーシステムドキュメントとの作業</value>
+  </data>
+  
+  <data name="Responsibilities" xml:space="preserve">
+    <value>主な責任</value>
+  </data>
+  <data name="Achievements" xml:space="preserve">
+    <value>主な成果</value>
+  </data>
+  <data name="Achievement1" xml:space="preserve">
+    <value>移行プロジェクトで複数のモジュールを正常にテストしました</value>
+  </data>
+  <data name="Achievement2" xml:space="preserve">
+    <value>システムの安定性を向上させる重要なバグを特定し報告しました</value>
+  </data>
+  <data name="Achievement3" xml:space="preserve">
+    <value>大規模で多文化なチーム環境で効果的に協力しました</value>
+  </data>
+</root>

@@ -1,0 +1,105 @@
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+
+@{
+    ViewData["Title"] = Localizer["Title"];
+}
+
+<div class="container py-5">
+    <h1 class="section-title text-center">@Localizer["Title"]</h1>
+    <p class="text-center text-muted mb-5">@Localizer["Subtitle"]</p>
+
+    <div class="row g-4">
+        <!-- Project 1: DataFaker -->
+        <div class="col-lg-6">
+            <div class="card h-100">
+                <div class="card-body">
+                    <div class="d-flex align-items-center mb-3">
+                        <div class="bg-primary text-white rounded-circle p-3 me-3">
+                            <i class="fas fa-desktop fa-2x"></i>
+                        </div>
+                        <div>
+                            <h4 class="card-title mb-1">@Localizer["P1.Name"]</h4>
+                            <span class="badge bg-success">@Localizer["Role"]: @Localizer["P1.Role"]</span>
+                        </div>
+                    </div>
+                    
+                    <p class="card-text">@Localizer["P1.Description"]</p>
+                    
+                    <div class="mt-3">
+                        <h6 class="text-primary">
+                            <i class="fas fa-star me-2"></i>@Localizer["KeyFeatures"]
+                        </h6>
+                        <ul class="small">
+                            @foreach (var feature in Localizer["P1.Features"].Value.Split(" • "))
+                            {
+                                <li>@feature</li>
+                            }
+                        </ul>
+                    </div>
+                    
+                    <div class="mt-3">
+                        <h6 class="text-primary">
+                            <i class="fas fa-tools me-2"></i>@Localizer["Technologies"]
+                        </h6>
+                        <div>
+                            @foreach (var tech in Localizer["P1.Tech"].Value.Split(", "))
+                            {
+                                <span class="skill-badge">@tech</span>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Project 2: HealthMateLC -->
+        <div class="col-lg-6">
+            <div class="card h-100">
+                <div class="card-body">
+                    <div class="d-flex align-items-center mb-3">
+                        <div class="bg-primary text-white rounded-circle p-3 me-3">
+                            <i class="fas fa-server fa-2x"></i>
+                        </div>
+                        <div>
+                            <h4 class="card-title mb-1">@Localizer["P2.Name"]</h4>
+                            <span class="badge bg-info">@Localizer["Role"]: @Localizer["P2.Role"]</span>
+                        </div>
+                    </div>
+                    
+                    <p class="card-text">@Localizer["P2.Description"]</p>
+                    
+                    <div class="mt-3">
+                        <h6 class="text-primary">
+                            <i class="fas fa-star me-2"></i>@Localizer["KeyFeatures"]
+                        </h6>
+                        <ul class="small">
+                            @foreach (var feature in Localizer["P2.Features"].Value.Split(" • "))
+                            {
+                                <li>@feature</li>
+                            }
+                        </ul>
+                    </div>
+                    
+                    <div class="mt-3">
+                        <h6 class="text-primary">
+                            <i class="fas fa-tools me-2"></i>@Localizer["Technologies"]
+                        </h6>
+                        <div>
+                            @foreach (var tech in Localizer["P2.Tech"].Value.Split(", "))
+                            {
+                                <span class="skill-badge">@tech</span>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="text-center mt-5">
+        <a asp-controller="Home" asp-action="Contact" class="btn btn-primary btn-lg">
+            <i class="fas fa-paper-plane me-2"></i>@Localizer["Nav.Contact"]
+        </a>
+    </div>
+</div>

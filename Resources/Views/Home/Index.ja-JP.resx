@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  
+  <data name="Hero.Greeting" xml:space="preserve">
+    <value>こんにちは、ファン・フイです</value>
+  </data>
+  <data name="Hero.Title" xml:space="preserve">
+    <value>.NETデベロッパーインターン | ソフトウェア工学専攻</value>
+  </data>
+  <data name="Hero.Description" xml:space="preserve">
+    <value>ASP.NET Coreで堅牢なWebアプリケーションを構築することに情熱を持っています。現在、FPT大学でソフトウェア工学を専攻し、.NET技術に焦点を当てています。</value>
+  </data>
+  <data name="About.Title" xml:space="preserve">
+    <value>自己紹介</value>
+  </data>
+  <data name="About.Intro" xml:space="preserve">
+    <value>FPT大学のソフトウェア工学専攻の学生で、.NET開発を専門としています。大規模な移行プロジェクトのテストやフルスタックアプリケーションの開発の実務経験があり、革新的なソフトウェアソリューションに貢献したいと考えています。</value>
+  </data>
+  <data name="About.Education" xml:space="preserve">
+    <value>学歴</value>
+  </data>
+  <data name="About.EducationDetails" xml:space="preserve">
+    <value>FPT大学（2022年 - 現在）- ソフトウェア工学専攻（.NET方向）- 卒業予定：2026年末</value>
+  </data>
+  <data name="Highlights.Title" xml:space="preserve">
+    <value>できること</value>
+  </data>
+  <data name="Highlights.WebDev" xml:space="preserve">
+    <value>Web開発</value>
+  </data>
+  <data name="Highlights.WebDevDesc" xml:space="preserve">
+    <value>ASP.NET Core MVCとWeb APIを使用したクリーンアーキテクチャのWebアプリケーション開発</value>
+  </data>
+  <data name="Highlights.Testing" xml:space="preserve">
+    <value>ソフトウェアテスト</value>
+  </data>
+  <data name="Highlights.TestingDesc" xml:space="preserve">
+    <value>大規模プロジェクトでの手動テスト、リグレッションテスト、品質保証の経験があります</value>
+  </data>
+  <data name="Highlights.Database" xml:space="preserve">
+    <value>データベース管理</value>
+  </data>
+  <data name="Highlights.DatabaseDesc" xml:space="preserve">
+    <value>SQL ServerとPostgreSQLを使用したデータモデリングとクエリ最適化</value>
+  </data>
+  <data name="CTA.ViewProjects" xml:space="preserve">
+    <value>プロジェクトを見る</value>
+  </data>
+  <data name="CTA.GetInTouch" xml:space="preserve">
+    <value>お問い合わせ</value>
+  </data>
+</root>

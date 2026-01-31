@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  
+  <data name="Title" xml:space="preserve">
+    <value>Professional Experience</value>
+  </data>
+  <data name="Subtitle" xml:space="preserve">
+    <value>My journey in software development and testing</value>
+  </data>
+  
+  <!-- Experience 1 -->
+  <data name="Exp1.Title" xml:space="preserve">
+    <value>Software Tester - Migration Project (Japanese Client)</value>
+  </data>
+  <data name="Exp1.Period" xml:space="preserve">
+    <value>September 2025 - December 2025</value>
+  </data>
+  <data name="Exp1.TeamSize" xml:space="preserve">
+    <value>Team size: ~200 members</value>
+  </data>
+  <data name="Exp1.Description" xml:space="preserve">
+    <value>Worked on a large-scale legacy system migration project for a Japanese client. Collaborated with an international team to ensure quality and reliability throughout the migration process.</value>
+  </data>
+  <data name="Exp1.Responsibilities" xml:space="preserve">
+    <value>Manual & regression testing • Writing comprehensive test cases • Bug reporting and verification • Collaborating with developers to resolve issues • Participating in daily standup meetings • Working with legacy system documentation</value>
+  </data>
+  
+  <data name="Responsibilities" xml:space="preserve">
+    <value>Key Responsibilities</value>
+  </data>
+  <data name="Achievements" xml:space="preserve">
+    <value>Key Achievements</value>
+  </data>
+  <data name="Achievement1" xml:space="preserve">
+    <value>Successfully tested multiple modules in the migration project</value>
+  </data>
+  <data name="Achievement2" xml:space="preserve">
+    <value>Identified and reported critical bugs that improved system stability</value>
+  </data>
+  <data name="Achievement3" xml:space="preserve">
+    <value>Collaborated effectively in a large, multicultural team environment</value>
+  </data>
+</root>

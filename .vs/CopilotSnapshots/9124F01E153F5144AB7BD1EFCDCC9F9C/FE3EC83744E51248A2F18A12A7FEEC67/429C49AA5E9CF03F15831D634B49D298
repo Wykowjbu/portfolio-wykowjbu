@@ -1,0 +1,105 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<!-- Hero Section -->
+<div class="hero-section text-center">
+    <div class="container">
+        <h1 class="display-3 fw-bold mb-3">@Localizer["Hero.Greeting"]</h1>
+        <p class="lead mb-4">@Localizer["Hero.Title"]</p>
+        <p class="mb-4">@Localizer["Hero.Description"]</p>
+        <div class="d-flex justify-content-center gap-3 flex-wrap">
+            <a asp-controller="Home" asp-action="Projects" class="btn btn-light btn-lg">
+                <i class="fas fa-folder-open me-2"></i>@Localizer["CTA.ViewProjects"]
+            </a>
+            <a asp-controller="Home" asp-action="Contact" class="btn btn-outline-light btn-lg">
+                <i class="fas fa-envelope me-2"></i>@Localizer["CTA.GetInTouch"]
+            </a>
+        </div>
+    </div>
+</div>
+
+<!-- About Section -->
+<section class="py-5">
+    <div class="container">
+        <h2 class="section-title">@Localizer["About.Title"]</h2>
+        <div class="row">
+            <div class="col-lg-8">
+                <p class="lead">@Localizer["About.Intro"]</p>
+                <div class="card mt-4">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <i class="fas fa-graduation-cap me-2 text-primary"></i>
+                            @Localizer["About.Education"]
+                        </h5>
+                        <p class="card-text">@Localizer["About.EducationDetails"]</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 mt-4 mt-lg-0">
+                <div class="card bg-light">
+                    <div class="card-body text-center">
+                        <div class="mb-3">
+                            <i class="fas fa-user-circle fa-5x text-primary"></i>
+                        </div>
+                        <h5 class="fw-bold">Phan Huy</h5>
+                        <p class="text-muted mb-2">
+                            <i class="fas fa-map-marker-alt me-2"></i>Vietnam
+                        </p>
+                        <p class="text-muted mb-2">
+                            <i class="fas fa-university me-2"></i>FPT University
+                        </p>
+                        <p class="text-muted">
+                            <i class="fas fa-calendar me-2"></i>2022 - 2026
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Highlights Section -->
+<section class="py-5 bg-light">
+    <div class="container">
+        <h2 class="section-title text-center">@Localizer["Highlights.Title"]</h2>
+        <div class="row g-4 mt-3">
+            <div class="col-md-4">
+                <div class="card text-center h-100">
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <i class="fas fa-code fa-3x text-primary"></i>
+                        </div>
+                        <h5 class="card-title">@Localizer["Highlights.WebDev"]</h5>
+                        <p class="card-text">@Localizer["Highlights.WebDevDesc"]</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card text-center h-100">
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <i class="fas fa-bug fa-3x text-primary"></i>
+                        </div>
+                        <h5 class="card-title">@Localizer["Highlights.Testing"]</h5>
+                        <p class="card-text">@Localizer["Highlights.TestingDesc"]</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card text-center h-100">
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <i class="fas fa-database fa-3x text-primary"></i>
+                        </div>
+                        <h5 class="card-title">@Localizer["Highlights.Database"]</h5>
+                        <p class="card-text">@Localizer["Highlights.DatabaseDesc"]</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

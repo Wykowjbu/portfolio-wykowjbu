@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  
+  <data name="Hero.Greeting" xml:space="preserve">
+    <value>Hi, I'm Phan Huy</value>
+  </data>
+  <data name="Hero.Title" xml:space="preserve">
+    <value>.NET Developer Intern | Software Engineering Student</value>
+  </data>
+  <data name="Hero.Description" xml:space="preserve">
+    <value>Passionate about building robust web applications with ASP.NET Core. Currently pursuing Software Engineering at FPT University with a focus on .NET technologies.</value>
+  </data>
+  <data name="About.Title" xml:space="preserve">
+    <value>About Me</value>
+  </data>
+  <data name="About.Intro" xml:space="preserve">
+    <value>I am a Software Engineering student at FPT University, specializing in .NET development. With hands-on experience in testing large-scale migration projects and developing full-stack applications, I am eager to contribute to innovative software solutions.</value>
+  </data>
+  <data name="About.Education" xml:space="preserve">
+    <value>Education</value>
+  </data>
+  <data name="About.EducationDetails" xml:space="preserve">
+    <value>FPT University (2022 - Present) - Software Engineering Major (.NET-oriented) - Expected Graduation: Late 2026</value>
+  </data>
+  <data name="Highlights.Title" xml:space="preserve">
+    <value>What I Do</value>
+  </data>
+  <data name="Highlights.WebDev" xml:space="preserve">
+    <value>Web Development</value>
+  </data>
+  <data name="Highlights.WebDevDesc" xml:space="preserve">
+    <value>Building web applications using ASP.NET Core MVC and Web API with clean architecture</value>
+  </data>
+  <data name="Highlights.Testing" xml:space="preserve">
+    <value>Software Testing</value>
+  </data>
+  <data name="Highlights.TestingDesc" xml:space="preserve">
+    <value>Experienced in manual testing, regression testing, and quality assurance in large-scale projects</value>
+  </data>
+  <data name="Highlights.Database" xml:space="preserve">
+    <value>Database Management</value>
+  </data>
+  <data name="Highlights.DatabaseDesc" xml:space="preserve">
+    <value>Working with SQL Server and PostgreSQL for data modeling and query optimization</value>
+  </data>
+  <data name="CTA.ViewProjects" xml:space="preserve">
+    <value>View My Projects</value>
+  </data>
+  <data name="CTA.GetInTouch" xml:space="preserve">
+    <value>Get In Touch</value>
+  </data>
+</root>
