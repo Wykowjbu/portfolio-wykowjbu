@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Users\\PenWy\\Portfolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -65,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\views\\home\\experience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:views\\home\\experience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\controllers\\culturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -153,6 +153,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\resources\\views\\home\\contact.ja-jp.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:resources\\views\\home\\contact.ja-jp.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}|",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}|",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|d:\\users\\penwy\\portfolio\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D7229D1A-871D-4743-810E-946625C06CDF}|Portfolio.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -162,7 +178,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -170,20 +186,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T06:34:54.131Z",
+              "DocumentIndex": 40,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-31T06:53:56.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 39,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-31T06:53:34.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-31T06:53:27.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -196,33 +238,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
-              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAG4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T05:11:58.421Z",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T03:51:26.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T06:17:10.316Z",
+              "DocumentIndex": 41,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-31T06:54:04.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "Skills.vi-VN.resx",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.vi-VN.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Skills.vi-VN.resx",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.vi-VN.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Skills.vi-VN.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T06:31:47.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -230,24 +283,47 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAFcAAAAAAAAAAAAAAG0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T03:52:35.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:52:35.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T06:17:10.316Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Skills.vi-VN.resx",
-              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.vi-VN.resx",
-              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Skills.vi-VN.resx",
-              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.vi-VN.resx",
-              "RelativeToolTip": "Resources\\Views\\Home\\Skills.vi-VN.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T06:31:47.314Z",
-              "EditorCaption": ""
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAG4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T05:11:58.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T06:34:54.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Projects.cshtml",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Projects.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Projects.cshtml",
@@ -255,12 +331,11 @@
               "RelativeToolTip": "Views\\Home\\Projects.cshtml",
               "ViewState": "AgIAAF4AAAAAAAAAAAAgwGkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T03:55:59.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:55:59.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Skills.cshtml",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Skills.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Skills.cshtml",
@@ -268,109 +343,88 @@
               "RelativeToolTip": "Views\\Home\\Skills.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T03:57:25.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:57:25.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Skills.ja-JP.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.ja-JP.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Skills.ja-JP.resx",
               "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.ja-JP.resx",
               "RelativeToolTip": "Resources\\Views\\Home\\Skills.ja-JP.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T06:31:46.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T06:31:46.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Skills.en-US.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.en-US.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Skills.en-US.resx",
               "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Skills.en-US.resx",
               "RelativeToolTip": "Resources\\Views\\Home\\Skills.en-US.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T06:21:03.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T06:21:03.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Experience.en-US.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Experience.en-US.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Experience.en-US.resx",
               "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Experience.en-US.resx",
               "RelativeToolTip": "Resources\\Views\\Home\\Experience.en-US.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T06:21:31.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T06:21:31.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Projects.en-US.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.en-US.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Projects.en-US.resx",
               "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.en-US.resx",
               "RelativeToolTip": "Resources\\Views\\Home\\Projects.en-US.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T06:20:08.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T06:20:08.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Projects.ja-JP.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.ja-JP.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Projects.ja-JP.resx",
               "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.ja-JP.resx",
               "RelativeToolTip": "Resources\\Views\\Home\\Projects.ja-JP.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T06:20:04.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T06:20:04.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Projects.vi-VN.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.vi-VN.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Projects.vi-VN.resx",
               "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Projects.vi-VN.resx",
               "RelativeToolTip": "Resources\\Views\\Home\\Projects.vi-VN.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T06:17:52.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T06:17:52.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Contact.en-US.resx",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Contact.en-US.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Home\\Contact.en-US.resx",
               "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Resources\\Views\\Home\\Contact.en-US.resx",
               "RelativeToolTip": "Resources\\Views\\Home\\Contact.en-US.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T06:09:08.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T06:09:08.228Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Users\\PenWy\\Portfolio\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAIBJwAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T03:51:26.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Experience.cshtml",
               "DocumentMoniker": "D:\\Users\\PenWy\\Portfolio\\Views\\Home\\Experience.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Experience.cshtml",
@@ -378,8 +432,7 @@
               "RelativeToolTip": "Views\\Home\\Experience.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAD8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T03:56:41.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:56:41.033Z"
             },
             {
               "$type": "Document",
@@ -391,8 +444,7 @@
               "RelativeToolTip": "Controllers\\CultureController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T03:51:41.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:51:41.049Z"
             },
             {
               "$type": "Document",
@@ -404,8 +456,7 @@
               "RelativeToolTip": "Resources\\Views\\Home\\Index.en-US.resx",
               "ViewState": "AgIAAFsAAAAAAAAAAABBwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:51:46.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:51:46.934Z"
             },
             {
               "$type": "Document",
@@ -417,8 +468,7 @@
               "RelativeToolTip": "Resources\\Views\\Shared\\_Layout.en-US.resx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:51:57.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:51:57.535Z"
             },
             {
               "$type": "Document",
@@ -430,8 +480,7 @@
               "RelativeToolTip": "Resources\\Views\\Home\\Contact.ja-JP.resx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T05:11:43.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T05:11:43.939Z"
             },
             {
               "$type": "Document",
@@ -443,8 +492,7 @@
               "RelativeToolTip": "Resources\\Views\\Home\\Contact.vi-VN.resx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:57:44.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:57:44.373Z"
             },
             {
               "$type": "Document",
@@ -456,8 +504,7 @@
               "RelativeToolTip": "Resources\\Views\\Home\\Contact.en-US.resx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:57:35.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:57:35.076Z"
             },
             {
               "$type": "Document",
@@ -469,8 +516,7 @@
               "RelativeToolTip": "Resources\\Views\\Home\\Skills.ja-JP.resx",
               "ViewState": "AgIAACEAAAAAAAAAAIBJwJsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:57:04.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:57:04.915Z"
             },
             {
               "$type": "Document",
@@ -482,8 +528,7 @@
               "RelativeToolTip": "Resources\\Views\\Home\\Skills.vi-VN.resx",
               "ViewState": "AgIAACQAAAAAAAAAAABRwJsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:56:57.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:56:57.974Z"
             },
             {
               "$type": "Document",
@@ -495,8 +540,7 @@
               "RelativeToolTip": "Resources\\Views\\Home\\Skills.en-US.resx",
               "ViewState": "AgIAACUAAAAAAAAAAIBJwJsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:56:49.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:56:49.581Z"
             },
             {
               "$type": "Document",
@@ -508,8 +552,7 @@
               "RelativeToolTip": "Resources\\Views\\Home\\Experience.ja-JP.resx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:56:29.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:56:29.49Z"
             },
             {
               "$type": "Document",
@@ -521,8 +564,7 @@
               "RelativeToolTip": "Resources\\Views\\Home\\Experience.vi-VN.resx",
               "ViewState": "AgIAACQAAAAAAAAAAMBtwJsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:56:20.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:56:20.297Z"
             },
             {
               "$type": "Document",
@@ -534,8 +576,7 @@
               "RelativeToolTip": "Resources\\Views\\Home\\Experience.en-US.resx",
               "ViewState": "AgIAAC4AAAAAAAAAAABBwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:56:09.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:56:09.804Z"
             },
             {
               "$type": "Document",
@@ -547,8 +588,7 @@
               "RelativeToolTip": "Resources\\Views\\Home\\Projects.ja-JP.resx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:55:48.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:55:48.031Z"
             },
             {
               "$type": "Document",
@@ -560,8 +600,7 @@
               "RelativeToolTip": "Resources\\Views\\Home\\Projects.vi-VN.resx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:55:36.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:55:36.867Z"
             },
             {
               "$type": "Document",
@@ -573,8 +612,7 @@
               "RelativeToolTip": "Resources\\Views\\Home\\Projects.en-US.resx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:55:25.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:55:25.49Z"
             },
             {
               "$type": "Document",
@@ -586,8 +624,7 @@
               "RelativeToolTip": "Resources\\Views\\Home\\Index.ja-JP.resx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:54:33.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:54:33.71Z"
             },
             {
               "$type": "Document",
@@ -599,8 +636,7 @@
               "RelativeToolTip": "Resources\\Views\\Home\\Index.vi-VN.resx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:54:21.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:54:21.027Z"
             },
             {
               "$type": "Document",
@@ -612,8 +648,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAACwAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T03:53:27.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:53:27.365Z"
             },
             {
               "$type": "Document",
@@ -625,8 +660,7 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAMcAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-01-31T03:53:15.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:53:15.512Z"
             },
             {
               "$type": "Document",
@@ -638,8 +672,7 @@
               "RelativeToolTip": "Resources\\Views\\Shared\\_Layout.ja-JP.resx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:52:18.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:52:18.054Z"
             },
             {
               "$type": "Document",
@@ -651,8 +684,7 @@
               "RelativeToolTip": "Resources\\Views\\Shared\\_Layout.vi-VN.resx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-31T03:52:07.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T03:52:07.721Z"
             }
           ]
         }

@@ -56,3 +56,4 @@ D:\Users\PenWy\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Views.Home.Skills.
 D:\Users\PenWy\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Views.Home.Experience.en-US.resources
 D:\Users\PenWy\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Views.Home.Skills.en-US.resources
 D:\Users\PenWy\Portfolio\obj\Debug\net8.0\Portfolio.Resources.Views.Home.Skills.vi-VN.resources
+D:\Users\PenWy\Portfolio\obj\Debug\net8.0\Portfolio.sourcelink.json
